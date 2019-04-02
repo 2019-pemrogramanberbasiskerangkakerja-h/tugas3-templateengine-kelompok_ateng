@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-nodejs",
+  "version": "1.0.0",
+  "description": "using handlebars templating engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas3-templateengine-kelompok_ateng.git"
+  },
+  "keywords": [
+    "handlebars"
+  ],
+  "author": "kelompok ateng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas3-templateengine-kelompok_ateng/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas3-templateengine-kelompok_ateng#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3"
+  }
+}
