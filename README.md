@@ -9,6 +9,6 @@
 ## Pembagian Tugas
 
         1. 
-        2.
+        2. HTML Template, Partial Layouting
         3. 
         
